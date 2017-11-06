@@ -1,11 +1,11 @@
 Node_testModule
 =========
 
-A small testmodule, purely for educational purposes
+A small testmodule, purely for educational purposes, for myself to be honest
 
 ## Installation
 
-  `npm install @welltemperedfate/testmodule`
+  `npm install @welltemperedfate/12345testmodule`
 
 ## Usage
 
