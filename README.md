@@ -9,7 +9,7 @@ A small testmodule, purely for educational purposes, for myself to be honest
 
 ## Usage
 
-    var testString = require('@welltemperedfate/testmodule');
+    var testString = require('@welltemperedfate/12345testmodule');
 
     var display = testString();
   

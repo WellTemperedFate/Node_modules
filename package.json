@@ -1,6 +1,6 @@
 {
   "name": "12345testmodule",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "testing purposes",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,6 @@
     "test"
   ],
   "author": "Giovanni Allemeersch",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/WellTemperedFate/Node_modules/issues"
   },
