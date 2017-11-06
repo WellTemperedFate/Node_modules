@@ -1,0 +1,26 @@
+{
+  "name": "testmodule",
+  "version": "0.1.0",
+  "description": "testing purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WellTemperedFate/Node_modules.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Giovanni Allemeersch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WellTemperedFate/Node_modules/issues"
+  },
+  "homepage": "https://github.com/WellTemperedFate/Node_modules#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
